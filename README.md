@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulascankutay&label=Profile%20views&color=0e75b6&style=flat" alt="ulascankutay" /> </p>
 
-- 🔭 I’m currently working on [Smart-home-system-with-IoT-](https://github.com/ulascankutay/Smart-home-system-with-IoT-.git)
+- 🔭 I’m currently working on [Smart-home-system-with-IoT-](https://github.com/ulascankutay/Smart-home-system-with-IoT-.git),[IoT-smart-greenhouse](https://github.com/ulascankutay/IoT-smart-greenhouse)
 
-- 🌱 I’m currently learning **Pico-W,ESP32,IoT**
+- 🌱 I’m currently learning **Pico-W,ESP32,IoT,STM32**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ulascankutay](https://github.com/ulascankutay)
 
